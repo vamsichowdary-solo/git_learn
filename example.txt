@@ -1,3 +1,6 @@
 This is a sample file for learning git.
 
 1st change
+
+trying reset commands revert
+
